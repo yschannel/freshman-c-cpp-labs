@@ -1,0 +1,21 @@
+CONCEPT;2026-01-15;Polymorphism basics;2;oop,polymorphism;virtual + override
+EXERCISE;2026-01-16;Vector sort challenge;3;stl,algorithm;sort with lambda
+BUG;2026-01-17;File not found crash;2;fstream,exception;handle missing file
+CONCEPT;2026-01-18;Template functions;3;template,generic;function template example
+EXERCISE;2026-01-19;Operator overloading;2;operator,io;implement << for Record
+BUG;2026-01-20;Memory leak in parser;4;memory,pointer;forgot delete
+CONCEPT;2026-01-21;RAII and smart pointers;4;smart_ptr,raii;unique_ptr usage
+EXERCISE;2026-01-22;STL algorithms lab;3;stl,algorithm,lambda;find_if and sort
+CONCEPT;2026-01-23;Exception safety;3;exception,safety;noexcept guarantees
+EXERCISE;2026-01-24;File I/O practice;2;fstream,io;read/write files
+BUG;2026-01-25;Infinite loop bug;5;debug,loop;off-by-one error
+CONCEPT;2026-01-26;Move semantics;4;move,performance;rvalue references
+EXERCISE;2026-01-27;Custom container;5;container,template;implement vector-like
+
+; 下面开始是坏行（用于测试 strict=false）
+EXERCISE;2026-01-28;Missing tags;2;;note with no tags
+CONCEPT;2026-01-29;Invalid difficulty;8;test;difficulty out of range
+BUG;2026-01-30;Bad date;2026-13-32;test;invalid date
+EXERCISE;2026-01-31;Extra field;3;test;note;extra;;;too many fields
+CONCEPT;2026-02-01;Empty tag;2;tag, ,another;tag has empty item
+EXERCISE;2026-02-02;Tag with invalid char;2;invalid@tag;illegal character

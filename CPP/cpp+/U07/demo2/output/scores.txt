@@ -1,0 +1,3 @@
+StudentA 90.5
+wooe 100 
+wowow10.0

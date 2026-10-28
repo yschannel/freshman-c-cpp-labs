@@ -1,0 +1,23 @@
+# Compiled files
+*.exe
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.pdb
+*.ilk
+*.out
+
+# Build and editor caches
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+.vscode/
+.cache/
+.clangd
+*.idx
+*.zip

@@ -1,0 +1,12 @@
+The quick brown fox jumps over the lazy dog.
+Hello world! This is a test file for searching keywords.
+C programming is powerful and fun.
+Sometimes, the word "test" appears more than once in this test file.
+Apple, banana, and cherry are fruits.
+Do you like programming in C or Python?
+The weather is nice today. Let's go outside!
+Debugging code can be frustrating but rewarding.
+Remember to always close your files after opening them.
+This line contains the word fox again, just to test repetition.
+Programming requires patience, logic, and practice.
+The end of the file is near. Thank you for testing!

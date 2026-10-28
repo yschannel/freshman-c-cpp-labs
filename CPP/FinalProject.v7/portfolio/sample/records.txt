@@ -1,0 +1,10 @@
+EXERCISE;2026-02-10;Binary Search Tree;3;data-structure,algorithm;Implemented insert and find
+CONCEPT;2026-02-11;RAII Principle;4;cpp,memory;Resource Acquisition Is Initialization
+EXERCISE;2026-02-12;Merge Sort;3;algorithm,sorting;Recursive divide and conquer
+CONCEPT;2026-02-13;Virtual Functions;4;cpp,polymorphism;Runtime polymorphism in C++
+EXERCISE;2026-02-14;Linked List Reversal;2;data-structure;Iterative approach
+CONCEPT;2026-02-15;Smart Pointers;3;cpp,memory;unique_ptr and shared_ptr
+EXERCISE;2026-02-16;Quick Sort;3;algorithm,sorting;Partitioning logic
+CONCEPT;2026-02-17;Template Metaprogramming;5;cpp,advanced;Powerful but complex
+EXERCISE;2026-02-18;Dijkstra Algorithm;4;graph,algorithm;Shortest path finding
+CONCEPT;2026-02-19;Concurrency Basics;4;cpp,threads;std::thread and mutex
